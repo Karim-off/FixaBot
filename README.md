@@ -3,14 +3,14 @@
 
 ## `🍓𝕾𝖆𝖐𝖚𝖗𝖆-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊-𝕸𝕯🦋` 
 <p align="center">
-<img src="https://telegra.ph/file/3871edd05ec8f3989f61d.jpg" alt="SakuraBotLite-MD" width="900"/>
+<img src="https://telegra.ph/file/3871edd05ec8f3989f61d.jpg" alt="FixaBot-MD" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="𝖯𝗋𝗎𝖾𝖻𝖺 𝖤𝗅 𝖡𝗈𝗍 𝖠𝗊𝗎𝗂" width="42" height="42"> 𝖯𝗋𝗎𝖾𝖻𝖺 𝖤𝗅 𝖡𝗈𝗍 𝖠𝗊𝗎𝗂
 
 > 𝖲𝗂 𝖣𝖾𝗌𝖾𝖺𝗌 𝖯𝗋𝗈𝖻𝖺𝗋 𝖤𝗅 𝖡𝗈𝗍 𝖠𝗇𝗍𝖾𝗌 𝖣𝖾 𝖨𝗇𝗌𝗍𝖺𝗅𝖺𝗋𝗅𝗈, 𝖢𝗅𝗂𝖼𝗄 𝖠𝖻𝖺𝗃𝗈.🟢
 
-<a href="https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE"><img alt="🦋 𝘎𝘳𝘶𝘱𝘰 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱" src="https://img.shields.io/badge/Grupo-SakuraLite🍓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE"><img alt="🦋 𝘎𝘳𝘶𝘱𝘰 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱" src="https://img.shields.io/badge/Grupo-FixaBot⚡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 
@@ -121,6 +121,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
        <td align="center"><a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png?size=100" width="100px;" alt=""/><br /><sub><b>𝖬𝖺𝗋𝗂𝗈</b></sub></a><br /><sub><i>𝖣𝖾𝗌𝖺𝗋𝗋𝗈𝗅𝗅𝖺𝖽𝗈𝗋 𝖮𝖿𝗂𝖼𝗂𝖺𝗅</i>
     <td align="center"><a 
  <td align="center"><a 
-href="https://github.com/Enzito-Vase"><img src="https://github.com/Enzito-Vase.png?size=100" width="100px;" alt=""/><br /><sub><b>𝖤𝗇𝗓𝗂𝗍𝗈</b></sub></a><br /><sub><i>𝖣𝖾𝗌𝖺𝗋𝗋𝗈𝗅𝗅𝖺𝖽𝗈𝗋 𝖮𝖿𝗂𝖼𝗂𝖺𝗅</i>
+href="https://github.com/Karim-off"><img src="https://github.com/Karim-off.png?size=100" width="100px;" alt=""/><br /><sub><b>𝖤𝗇𝗓𝗂𝗍𝗈</b></sub></a><br /><sub><i>𝖣𝖾𝗌𝖺𝗋𝗋𝗈𝗅𝗅𝖺𝖽𝗈𝗋 𝖮𝖿𝗂𝖼𝗂𝖺𝗅</i>
     <td align="center"><a 
  <td align="center"><a
