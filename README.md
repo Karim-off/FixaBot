@@ -90,11 +90,11 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="𝐂𝐫𝐞𝐚𝐝𝐨𝐫 🍓" width="42" height="42"> 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 🍓
 
-* <a href="https://wa.me/573013482814"><img alt="𝘾𝙧𝙚𝙖𝙙𝙤𝙧 🍓" src="https://img.shields.io/badge/Diego - Creador🍓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/59168683798"><img alt="𝘾𝙧𝙚𝙖𝙙𝙤𝙧 🍓" src="https://img.shields.io/badge/Diego - Creador🍓-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> 𝐁𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 🦋
 
-* <a href="https://wa.me/51935499065"><img alt="𝘽𝙤𝙩 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🍓" src="https://img.shields.io/badge/Bot - Oficial🦋-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/59181816973"><img alt="𝘽𝙤𝙩 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🍓" src="https://img.shields.io/badge/Bot - Oficial🦋-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 > No Agas Spam Al Bot!
 
