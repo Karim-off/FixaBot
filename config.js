@@ -14,11 +14,11 @@ global.confirmCode = ""
 
 /*Numeros de los creadores*/
 global.owner = [
- ['573013482814', '🍓 𝖢𝖱𝖤𝖠𝖣𝖮𝖱 ✨', true], 
+ ['59168683798', '🍓 𝖢𝖱𝖤𝖠𝖣𝖮𝖱 ✨', true], 
  ['5214431467891', '𝖤𝗌 𝖴𝗇 𝖡𝗈𝗍 😻', true],
  ['51935499065'],
- ['5215610314499'],
- ['5492355505090']]
+ [''],
+ ['']]
 
 
 global.suittag = ['573013482814'];
@@ -28,12 +28,12 @@ global.lenguajeSK = es //idioma de sakurabot
 
 global.packname = '𝑆𝑎𝑘𝑢𝑟𝑎𝐵𝑜𝑡𝐿𝑖𝑡𝑒-𝑀𝐷🦋';
 global.author = '𝙳𝙸𝙴𝙶𝙾 💖';
-global.wm = '𝐒𝐚𝐤𝐮𝐫𝐚-𝐁𝐨𝐭 😻';
-global.titulowm = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍';
+global.wm = '𝑫𝒚𝒍𝒂𝒏𝑩𝒐𝒕 😻';
+global.titulowm = 'Fixa : 𝗕𝗈𝗍';
 global.titulowm2 = `𝘋𝘪𝘦𝘨𝘰𝘖𝘧𝘪𝘤𝘪𝘢𝘭`
 global.igfg = '𝖣𝗂𝖾𝗀𝗈𝖮𝖿𝗂𝖼𝗂𝖺𝗅';
 global.wait = '*🦋 𝑈𝑛 𝑀𝑜𝑚𝑒𝑛𝑡𝑜 ʕ •́؈•̀ ₎...*';
-global.vs = '1.0.6 (beta)';
+global.vs = '1.0.6';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -43,7 +43,7 @@ global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
 //Grupos
-global.gp1 = 'https://chat.whatsapp.com/L69Ok8LTIJNCTNsJydkXaE' //Grupo Oficial
+global.gp1 = 'https://github.com/Karim-off/FixaBot' //Grupo Oficial
 
 global.gp2 = 'https://chat.whatsapp.com/DN0Qcj8Mbpg7HaHn6l35ts' //Grupo Global
 
@@ -55,7 +55,7 @@ global.gp5 = 'https://chat.whatsapp.com/HXOGzELFOVXFM1KrSoKdqH' //Grupo MultiBot
 
 global.channel = 'https://whatsapp.com/channel/0029VaHdt8oJENxtNExL8z2n' //Canal Oficial
 
-global.yt = 'https://www.youtube.com/@SakuraBotLite'
+global.ig = ''
 
 global.mods = [];
 
@@ -70,10 +70,10 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
-global.gt = 'SakuraBot';
-global.mysticbot = 'SakuraBot';
-global.md = 'https://github.com/diegojadibot/SakuraBotLite-MD';
-global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
+global.gt = 'FixaBot';
+global.mysticbot = 'FixaBot';
+global.md = 'https://github.com/Karim-off/FixaBot';
+global.mysticbot = 'https://github.com/Karim-off/FixaBot';
 global.waitt = '*🦋 𝑈𝑛 𝑀𝑜𝑚𝑒𝑛𝑡𝑜 ʕ •́؈•̀ ₎...*';
 global.waittt = '*🦋 𝑈𝑛 𝑀𝑜𝑚𝑒𝑛𝑡𝑜 ʕ •́؈•̀ ₎...*';
 global.waitttt = '*🦋 𝑈𝑛 𝑀𝑜𝑚𝑒𝑛𝑡𝑜 ʕ •́؈•̀ ₎...*';
