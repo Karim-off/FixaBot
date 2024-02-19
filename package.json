@@ -1,5 +1,5 @@
 {
-  "name": "SakuraBotLite-MD",
+  "name": "FixaBot",
   "version": "1.0.0",
   "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
   "main": "index.js",
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/Karim-off/FixaBot",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/Karim-off/FixaBot.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://github.com/Karim-off/FixaBot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
