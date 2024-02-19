@@ -52,7 +52,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/diegojadibot/SakuraBotLite-MD.git && cd SakuraBotLite-MD
+git clone https://github.com/Karim-off/FixaBot.git && cd FixaBot
 ```
 
 ```bash
